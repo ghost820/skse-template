@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-or-later
+
 #include <Windows.h>
 
 #include "spdlog/sinks/basic_file_sink.h"
